@@ -20,6 +20,7 @@ public class Caderno {
             notas.add(nota1);
         }
     }
+    System.out.println("alteramos");
     public int quantNotas(){
         return notas.size();
     }
